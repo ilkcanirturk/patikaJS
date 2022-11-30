@@ -1,1 +1,1 @@
-This repository is only for exercises about patika.dev JavaScript course.
+This repository is only for exercises and lessons about patika.dev JavaScript course.
